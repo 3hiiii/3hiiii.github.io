@@ -71,9 +71,9 @@ social:
 
 # 作者卡片 状态
 author_status:
-  enable: false
+  enable: true
   # 可以是任何图片，建议放表情包或者emoji图片，效果都很好，[表情包速查](https://emotion.xiaokang.me/)
-  statusImg: "https://upload-bbs.miyoushe.com/upload/2025/04/18/288909601/159c0aa34aa7594b629d2938532f06e3_5189958629941921591.gif"
+  statusImg: /images/迷迷/睡觉.png
   skills:
     # - 🤖️ 数码科技爱好者
     # - 🔍 分享与热心帮助
