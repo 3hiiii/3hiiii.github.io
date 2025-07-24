@@ -1075,9 +1075,9 @@ home_top:
     swiper_js: https://npm.elemecdn.com/anzhiyu-theme-static@1.0.0/swiper/swiper.min.js #swiper js依赖
   banner:
     tips: 厨力博客
-    title: 迷迷真是太可爱啦！
+    title: 迷迷真是太可爱啦！!
     # image: https://bu.dusays.com/2023/05/13/645fa3cf90d70.webp
-    image: /images/迷迷/音乐会截图.png
+    image: /images/迷迷/背景.jpg
     link: https://space.bilibili.com/1879875287?spm_id_from=333.788.0.0
 
 # 朋友圈配置
